@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "types": ["vitest/globals"],
+    "strict": true,
+    "jsx": "react"
+  }
+}
